@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Meet Shah
+<h1 align="center">Hi 👋, I'm Meet Shah</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 🚀 I'm a budding developer with a passion for **web development**, **logic building**, and and exploring **Machines**.
+
+<p align="left">
+<a href="https://instagram.com/meetshah8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meetshah8" height="30" width="40" /></a>
+</p>
 
 ## 🧰 Tech Stack & Tools
 
