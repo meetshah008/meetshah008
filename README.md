@@ -1,7 +1,6 @@
-## Hi there 👋
 # 👋 Hi, I'm Meet Shah
 
-🚀 I'm a budding developer with a passion for **web development**, **logic building**, and hands-on **technical work**.
+🚀 I'm a budding developer with a passion for **web development**, **logic building**, and and exploring **Machines**.
 
 ## 🧰 Tech Stack & Tools
 
@@ -14,12 +13,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 
 🔧 **Skills & Learning:**
+
 - 🌐 Frontend: HTML, CSS, learning JavaScript
 - 💻 Programming Basics: C, C++, Java (simple logic, syntax)
 - 📚 Exploring: Data Structures & Algorithms (DSA)
 - 🛠️ Machine-related work and technician-level tasks
 
 🎯 **Goals:**
+
 - Build responsive websites
 - Master DSA logic
 - Explore how machines work internally
@@ -27,3 +28,4 @@
 📂 Browse through my pinned repositories to see my learning journey!
 
 📫 Reach me at: meetshah08@gamil.com
+
